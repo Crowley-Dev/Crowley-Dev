@@ -1,12 +1,13 @@
 ### Olá. Eu sou o Crowley!
 
 
+Sobre mim:
 
 - 🌐  Pretendo ser um desenvolvedor web.
 - 📚  Estudo Python e Ruby.
 - :house_with_garden:  Brasil/SC.
 
-Langs:
+<code>Tecnologias:</code>
 
 <div>
  <img width="84" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -16,7 +17,7 @@ Langs:
 
 
 
-Contate-me:
+<code>Contate-me:</code>
 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=556796968737&text=Olá!)](https://api.whatsapp.com/send?phone=5567996968737&text=Olá!)
 <a href="https://discord.gg/5XMypDufcD" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="77"></a> 
