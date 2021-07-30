@@ -1,17 +1,17 @@
 ### Olá. Eu sou o Crowley!
 
 
-```Sobre mim:```
+<code>Sobre mim:</code>
 
 - 🌐  Pretendo ser um desenvolvedor web.
-- 📚  Estudo Python e Ruby.
+- 📚  Estudante de Python e Ruby.
 - :house_with_garden:  Brasil/SC.
 
 <code>Tecnologias:</code>
 
 <div>
- <img width="84" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
- <img width="67" src="https://img.shields.io/badge/Ruby-DC143C?style=for-the-badge&logo=ruby&logoColor=white"/>
+  <img width="84" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img width="67" src="https://img.shields.io/badge/Ruby-DC143C?style=for-the-badge&logo=ruby&logoColor=white"/>
 </div><br>
 
 
