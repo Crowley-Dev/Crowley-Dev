@@ -3,15 +3,17 @@
 
 <code>Sobre mim:</code>
 
-- 🌐  Pretendo ser um desenvolvedor web.
-- 📚  Estudante de Python e Ruby.
+- 🌐  Pretendo ser um Front-end.
+- 📚  Atualmente estudando HTML e CSS.
 - :house_with_garden:  Brasil/SC.
 
 <code>Tecnologias:</code>
 
 <div>
-  <img width="84" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img width="67" src="https://img.shields.io/badge/Ruby-DC143C?style=for-the-badge&logo=ruby&logoColor=white"/>
+  <img width="84" src="https://img.shields.io/badge/Python-blue"/>
+  <img width="70" src="https://img.shields.io/badge/RUBY-red"/>
+  <img width="70" src="https://img.shields.io/badge/HTML-red"/>
+  <img width="58" src="https://img.shields.io/badge/CSS-blue"/>
 </div><br>
 
 
