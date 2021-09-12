@@ -10,10 +10,9 @@
 <code>Tecnologias:</code>
 
 <div>
-  <img width="62" src="https://img.shields.io/badge/Python-blue"/>
-  <img width="50" src="https://img.shields.io/badge/RUBY-red"/>
-  <img width="50" src="https://img.shields.io/badge/HTML-red"/>
-  <img width="40" src="https://img.shields.io/badge/CSS-blue"/>
+    <img width="85" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img width="80" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+    <img width="54" src="https://img.shields.io/badge/HTML-DC143C?style=for-the-badge&logo=html&logoColor=white"/>
 </div><br>
 
 
