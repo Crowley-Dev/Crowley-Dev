@@ -18,4 +18,4 @@
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-4CA143?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5567996968737&text=Olá!)
 [![DISCORD ](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/5XMypDufcD)
 
-![Crowley github stats](https://github-readme-stats.vercel.app/api?username=Crowley-Dev&theme=vision-friendly-dark&show_icons=true) 
+![ Crowley ](https://github-readme-stats.vercel.app/api?username=Crowley-Dev&theme=vision-friendly-dark&show_icons=true) 
