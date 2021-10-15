@@ -11,7 +11,9 @@
 
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FLASK ](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![ HTML ](https://img.shields.io/badge/HTML-DC143C?style=flat-square&logo=html&logoColor=white)
+![ RUBY ](https://img.shields.io/badge/Ruby-DC143C?style=flat-square&logo=ruby&logoColor=white)
+![ HTML ](https://img.shields.io/badge/HTML-red?style=flat-square&logo=html&logoColor=white)
+![ CSS  ](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css&logoColor=white)
 
 `Contate-me:`
 
