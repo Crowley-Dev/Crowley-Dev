@@ -59,7 +59,7 @@ estudando Ruby e, revisando Python e ainda tem a escola... <br>
 
   @app.route("/")
   def home():
-    return "<h1 align='center' color='red'> Olá, mundo. </h1>"
+    return "<h1 align='center'> Olá, mundo. </h1>"
 
 
   @app.route("/<name>")
