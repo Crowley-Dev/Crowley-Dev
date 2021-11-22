@@ -13,12 +13,6 @@ Nasci em Cuiabá/MT, <br>
 mas fui criado em Dourados/MS. <br>
 Atualmente estou morando em Tubarão/SC. <br>
 
-  </p><p>
-Bom, por mais que eu não tenha estudado Web-Design, <br>
-eu, ainda assim, me considero um Desenvolvedor front-end e, <br>
-eu até desenvolvo algumas APIs em Flask, <br>
-mas não acho que eu seja um backend. <br>
-
   </p>
 </details>
 <details>
@@ -26,14 +20,10 @@ mas não acho que eu seja um backend. <br>
   <br>
 
   <p>
-Bom, eu programo Python e Ruby, <br>
+Bom, eu programo Python e Ruby. <br>
 Python, na verdade, eu já programo a alguns meses, <br>
-agora Ruby, confesso não ter muita experiência, <br>
-mas estou estudando ela (Ruby) aos poucos. <br><br>
-Eu não posso cobrar muito de mim mesmo, <br>
-afinal, eu tenho apenas 15 anos, <br>
-e eu já estou estudando bootstrap, revisando html e css, <br>
-estudando Ruby e, revisando Python e ainda tem a escola... <br>
+agora Ruby, confesso não ter muita experiência. <br>
+Mas estou estudando ela (Ruby) aos poucos.
 
   </p><br><br>
 
