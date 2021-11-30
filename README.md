@@ -1,7 +1,7 @@
 
-> - 🤠 Olá, eu sou o Crowley.
-> - 📚 Atualmente estudando o framework Bootstrap 5.
-> - 🏡 Brasil/SC. 
+> - 🤠 Hello. My name is Crowley.
+> - 📚 I really like to program python.
+> - 🏡 I am currently living in Brazil.
 
 <br><br>
 
